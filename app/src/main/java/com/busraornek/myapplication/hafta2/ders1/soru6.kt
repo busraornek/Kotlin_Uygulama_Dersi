@@ -12,4 +12,4 @@ fun toplamDegerleriTopla(deger:HashMap<String,Int>):Int{
     }
     return toplam
 }
-//dsgsdfs
+//dsgsdfsfhrdfge
